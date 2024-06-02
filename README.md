@@ -1,7 +1,7 @@
 # Multi-Tasking
 
 <p align="center">
-  <img width="512" height="512" src="[https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true]">
+  <img width="512" height="512" src="https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true">
 </p>
 
 ![alt text](https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true)
