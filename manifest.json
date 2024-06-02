@@ -1,0 +1,5 @@
+{
+    "namespace": "multitasking",
+    "setup": "setup.mjs",
+    "icon": "assets/octopus.png"
+}
