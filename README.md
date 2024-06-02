@@ -1,4 +1,7 @@
 # Multi-Tasking
+
+![alt text](https://github.com/NaviNieve/Multi-Tasking/blob/assets/octopus.png?raw=true)
+
 This is a Fixed and reuploaded the abandoned mod "Multitasking" by "NotCorgan" for Melvor Idle Version 1.2.2.
 Description:
 
