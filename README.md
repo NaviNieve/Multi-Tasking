@@ -1,9 +1,10 @@
-
+# Multi-Tasking
 
 <p align="center">
-  # Multi-Tasking
-  
   <img width="512" height="512" src="https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true">
+</p>
+
+<p align="center">
   This is a Fixed and reuploaded the abandoned mod "Multitasking" by "NotCorgan" for Melvor Idle Version 1.2.2.
   Description:
   
@@ -47,4 +48,3 @@
   
   Also, not tested thoroughly with other mods other than "SEMI" mods and small things like Township, and such...
 </p>
-
