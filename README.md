@@ -1,5 +1,9 @@
 # Multi-Tasking
 
+<p align="center">
+  <img width="512" height="512" src="[https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true]">
+</p>
+
 ![alt text](https://github.com/NaviNieve/Multi-Tasking/blob/main/assets/octopus.png?raw=true)
 
 This is a Fixed and reuploaded the abandoned mod "Multitasking" by "NotCorgan" for Melvor Idle Version 1.2.2.
@@ -7,9 +11,7 @@ Description:
 
 "Allows you to train all active skills at once." - NotCorgan
 
- 
-
-Features:
+## Features:
 
 ✔️Enable / ❌Disable Mod
 
@@ -27,7 +29,7 @@ OR
 
  
 
-Notes:
+## Notes:
 
 ✔️ Cartography should work, but I was also not able to reproduce any errors during my testing. ✔️ 
 
@@ -35,13 +37,13 @@ Notes:
 
  
 
-Tested On:
+## Tested On:
 
 <Game: Melvor Idle><Version: 1.2.2><Platform: 🖥Steam><Status: ✅Working>
 
  
 
-Conflicts:
+## Conflicts:
 
 None!😎
 
