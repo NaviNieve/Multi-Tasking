@@ -160,11 +160,7 @@ export async function setup(ctx) {
         });
       }
     });
-/*  UNKNOWN ERROR... Stops everything else though...
-    patch(RaidManager, 'preStartRaid').replace(function() {
-      return;
-    });
-*/
+    
 ctx.patch(Game, 'onLoad').before(function() {
     this.activeActions.forEach(action => {
       if(action.isActive && action !== multitasking)
