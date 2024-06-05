@@ -41,6 +41,8 @@ class Multitasking extends NamespacedObject {
     }
 
     removeAction(action) {
+        //Make sure action is stopped before removing
+        action.stop();
         this.actions.delete(action);
     }
 
